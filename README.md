@@ -31,8 +31,7 @@ Using the summary dataframe, the following chart was generated:
 This chart illustrates weekly sum of fares for each city type (January to May, 2019). Chart shows that total fares in all city types were fairly steady. There were not dynamic changes. Urban area's total weekly fares from about $1,660 to $2,500. In suburban area total weekly fares were from about $720 to almost $1,500. And, in rural area this indicator was from about $70 to $500. Minimum points for urban and suburban city types were in the beginning of January. The minimum point of rural city type was in the second week of January, $68 which is almost two times of average fare per ride ($34.62).  It means, that week there were about two rides. Even in the best week the there were  about 15 rides ($500 / $34.62 =14.4) in the rural area. The urban and suburban city types are in the first and second places, respectively. 
 
 ## Summary: 
-
 The following recommendations should be considered before accessing to ride-sharing services in underserved areas:
-    - Territory of rural and suburban areas and mileage distance covered by drivers should be considered, to check why average fare for each ride in rural and suburban areas is higher than in urban area;
-    - Population of all areas should be considered as well. The correlation between territory and population would show better picture;
-    - Due to low demand, probably Rural area is not worth accessing.
+- Territory of rural and suburban areas and mileage distance covered by drivers should be considered, to check why average fare for each ride in rural and suburban areas is higher than in urban area;
+- Population of all areas should be considered as well. The correlation between territory and population would show better picture;
+- Due to low demand, probably Rural area is not worth accessing.
